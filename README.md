@@ -5,7 +5,7 @@ An email validation tool that checks if your account has been breached or not.
 This is what you input in your terminal to install the tool:
 
 ```
-$ npm install emailTester
+$ npm install emailpawntest
 ````
 
 ## Usage.

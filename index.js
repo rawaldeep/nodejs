@@ -5,7 +5,7 @@ let readline = require('readline-sync');
 const chalk = require("chalk");                 //
 const validity = chalk.black.bgGreen.underline  // some styles for my confirmation messages.
 const errorMessage = chalk.black.bgRed.underline; //
-const email = readline.question("what's your email adress?");
+const email = readline.question("what's your email adress?: ");
 
 if(validator.validate(email)){
     const encodeEmail = encodeURIComponent(email);
