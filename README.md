@@ -12,5 +12,5 @@ $ npm install emailpawntest
 To use this tool simply input the tool name and an email of your choice.
 
 ```
-$ emailTester name@example.com
+$ emailpawntest name@example.com
 ```
