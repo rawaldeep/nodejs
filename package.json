@@ -1,6 +1,9 @@
 {
-  "name": "indexjs",
+  "name": "emailTester",
   "version": "1.0.0",
+  "bin": {
+    "cli_tool": "./index.js"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
